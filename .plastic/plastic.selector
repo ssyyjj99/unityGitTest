@@ -1,0 +1,4 @@
+repository "UnityTest@lucyshan1108@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
